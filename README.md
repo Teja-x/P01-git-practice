@@ -11,6 +11,9 @@ To understand and apply core Git concepts such as:
 - Merging changes
 - Connecting to remote GitHub repositories
 - Pushing and pulling changes
+- Creating PRs (Pull Requests)
+- Resolving conflicts
+- Tag milestones and version releases
 
 ## Concepts Covered
 - `git init`, `git status`, `git add`, `git commit`
